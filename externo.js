@@ -1,7 +1,3 @@
-// const puerto = 2020;
-
-// module.exports = puerto;
-
 function mostrarNumeros(){
     let retorno = "";
     for(let i=0 ; i < 10; i++){
